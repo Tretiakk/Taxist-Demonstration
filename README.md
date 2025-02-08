@@ -17,7 +17,7 @@ App Fully supports German, English, Spanish, French, Polish, and Ukrainian langu
 ________________________
 
 
-# [Download app (only for android)](https://drive.google.com/file/d/1jLv-orox-eOlm3o0FF102CwjtKjCpbO8/view?usp=sharing)
+# [Download app (only for android)](https://drive.google.com/file/d/1hdyv-SCe6SRzc6a2t_M9RwtwApgjx3nI/view?usp=sharing)
 The first time you run it, there may be problems (Google starts the app in safe mode because the app is unknown), then just **restart** the app.
 
 ## [Video demonstration](https://www.youtube.com/watch?v=kHWMUHJNE88)

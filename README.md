@@ -17,9 +17,6 @@ App Fully supports German, English, Spanish, French, Polish, and Ukrainian langu
 ________________________
 
 
-_This app was created to showcase my skills._
-**_Orest Tretiak._**
-
 # [Download app (only for android)](https://drive.google.com/file/d/1SSOPou_SHYa817k666PVwBdlWqPcDThR/view?usp=drive_link)
 The first time you run it, there may be problems (Google starts the app in safe mode because the app is unknown), then just **restart** the app.
 

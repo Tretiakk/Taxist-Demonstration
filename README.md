@@ -22,17 +22,17 @@ The first time you run it, there may be problems (Google starts the app in safe 
 
 ## [Video demonstration](https://www.youtube.com/watch?v=kHWMUHJNE88)
 
-![](https://github.com/Tretiakk/Taxist/blob/main/Taxist%20Preview%203.png)
+![](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Taxist%20Preview%203.png)
 
 ### Main menu
-![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Main.png)
+![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Main.png)
 
 ### Drivers menu
-![Main Image](https://github.com/Tretiakk/Taxist/blob/main/DriverList.png)
+![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/DriverList.png)
 
 ### Info menu
-![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Info.png)
+![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Info.png)
 
 ### Network error
-![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Network.png)
+![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Network.png)
 

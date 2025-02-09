@@ -31,7 +31,7 @@ The first time you run it, there may be problems (Google starts the app in safe 
 ![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/DriverList.png)
 
 ### Info menu
-![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Info.png)
+![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Information.png)
 
 ### Network error
 ![Main Image](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Network.png)
